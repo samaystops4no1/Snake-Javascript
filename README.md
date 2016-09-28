@@ -8,3 +8,4 @@ Instructions for Game:
 P.S Ignore the changing values in the red box. They are for development purposes and display the movement of snake and its food in real time.
 "# Snake-Javascript" 
 "# Snake-Javascript" 
+"# Snake-Javascript" 
