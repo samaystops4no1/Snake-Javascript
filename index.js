@@ -7,7 +7,7 @@ var multer=require('multer');
 app.set('port', (process.env.PORT || 8123))
 
 //Static file
-app.use(express.static(__dirname);
+app.use(express.static(__dirname));
 
 // Spin up the server
 var server=app.listen(app.get('port'), function() {
